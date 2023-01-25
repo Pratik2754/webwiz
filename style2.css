@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    padding: 10px;
+}
+
+
+
+header{
+    padding: 30px;
+    background-color: black;
+   font-family: fantasy;
+    font-weight: 100;
+    text-align: center;
+    
+    font-size: 70px;
+    font-style: bold;
+    color: yellow;
+}
+nav{
+    background-color: blueviolet;
+    word-spacing: 10px;
+    padding: 10px;
+    color: yellow;
+}
+nav a{
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: bold;
+    color: yellow;
+
+}
+nav a:hover{
+    color: white;
+}
+p{
+    text-align: right;
+    color: white;
+    font-size: larger;
+}
+footer{
+    background-color: blueviolet;
+    word-spacing: 10px;
+}
+img{
+    text-align: left;
+    padding: 20px;
+}
+div{
+    border: 2px solid;
+    border-color: yellow;
+    padding: 15px;
+}
+button{
+    padding: 8px;
+    background-color: yellow;
+    
+}
+button:hover{
+    background-color: burlywood;
+}
